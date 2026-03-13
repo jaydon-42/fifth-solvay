@@ -22,7 +22,7 @@ story_interface:
   show_on_homepage: true
   show_story_steps: true
   show_object_credits: true
-  include_demo_content: true # Turn off for production sites
+  include_demo_content: false # Turn off for production sites
 
 # Collection Interface Settings
 collection_interface:
